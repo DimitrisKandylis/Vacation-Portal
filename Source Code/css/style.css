@@ -1,0 +1,63 @@
+body {
+  background-color: #D9AFD9;
+  background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+}
+.card {
+  background-color: #d9dadb;
+  margin-bottom: 4%;
+}
+.form_cards {
+  background-color: #fff!important;
+}
+.main_container {
+  margin-top: 2%;
+}
+#login_container {
+  max-width: 640px;
+  margin-top: 6%;
+}
+#new_req_btn {
+  margin-bottom: 3%;
+  float: right;
+}
+#logout_btn {
+  float: right;
+}
+#req_submit_btn {
+  margin-top: 1%;
+}
+#login_btn {
+  margin-top: 1%;
+}
+#cancel_btn {
+  margin-top: 1%;
+  margin-left: 1%;
+}
+#user_title {
+  font-size: 25px;
+  font-weight: 600;
+}
+#home_lbl {
+  margin-top: 1%;
+}
+.online_dot {
+  margin-top: -7px;
+  margin-right: 5px;
+}
+.table {
+  background-color: #fff!important;
+}
+#user_icon {
+  margin-right: 1%;
+}
+.form_label {
+  margin-bottom: 2%;
+}
+#login_icon {
+  width: 120px;
+  margin-bottom: 3%;
+}
+#login_card {
+  text-align: center;
+  border-radius: 6px;
+}
